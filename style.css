@@ -1,0 +1,15 @@
+body h1{
+    color:lime;
+}
+
+body p{
+    font-size: 60px;
+}
+
+body{
+    background-color: grey;
+}
+
+.kowaihito img{
+    border-radius: 100%;
+}
